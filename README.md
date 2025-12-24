@@ -1,4 +1,4 @@
-### ⚡ Hola, soy [Tu Nombre]
+### ⚡ Hola, soy James Lalupu
 
 **Behavioral Data Engineer en formación | C++ Specialist**
 
