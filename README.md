@@ -1,16 +1,17 @@
-## Hi there 👋
+### ⚡ Hola, soy [Tu Nombre]
 
-<!--
-**Wjazz/Wjazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Behavioral Data Engineer en formación | C++ Specialist**
 
-Here are some ideas to get you started:
+No soy el típico desarrollador. Vengo de la **Psicología Organizacional** y aplico ingeniería de software para modelar el comportamiento humano, la eficiencia de sistemas y las dinámicas de poder.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠 Arsenal Técnico
+* **Core:** C++ (STL, Memory Management, OOP), Python (Pandas, Data Analysis).
+* **Enfoque:** Simulaciones Basadas en Agentes (ABM), Teoría de Grafos, Algoritmos de Eficiencia.
+* **Filosofía:** "Code is the ultimate lever for reality."
+
+#### 🔭 Trabajando actualmente en:
+* **Project Dark Agency:** Un simulador de dinámicas de mercado y depredación económica usando C++ y gestión de memoria dinámica.
+* **Organizational Graph Theory:** Modelado de jerarquías de poder empresarial mediante Matrices de Adyacencia.
+
+---
+[LinkedIn](Tu_Link_Aqui) | [Email](Tu_Email_Aqui)
