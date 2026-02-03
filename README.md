@@ -20,4 +20,4 @@ Vengo de la **Psicología Organizacional** y aplico ingeniería de datos para tr
 * **HR Data Lake Architecture (Concept):**
   * Diseño de flujo ETL para la ingestión de nóminas y expedientes, aplicando principios de Gobierno de Datos.
 -------------------------------------------------------------------------------------------------------------------------------------
-* | LinkdIn: [linkedin.com/in/james-l-48289224a] | Correo: [james.laloup@outlook.com] *
+* | LinkedIn: [https://www.linkedin.com/in/james-l-48289224a/)] | Correo: [james.laloup@outlook.com] *
