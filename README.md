@@ -1,23 +1,16 @@
-### Hola, soy James Lalupu👋
-**People Analytics Specialist | Data Engineer & Architect**
+# Hi, I'm James Lalupu 👋
 
-Vengo de la **Psicología Organizacional** y aplico ingeniería de datos para transformar la gestión del talento en una ciencia exacta. Mi enfoque une la psicometría con arquitecturas Big Data (ETL, Data Lakes) para la toma de decisiones basada en evidencia.
+**Analytics Engineer | People Analytics Specialist | C++ & Python Developer**
 
-🛠 **Arsenal Técnico & Arquitectura**
-* **Data Engineering:** Conceptos de Ingesta y Procesamiento (Staging/Raw/Master Layers - Ether Framework).
-* **Analytics Core:** Python (Pandas/NumPy), SQL, Excel Avanzado (VBA), Power BI.
-* **High Performance Logic:** C++ (Applied to Complex System Simulation & Memory Management).
-* **Process Mining:** BPMN 2.0 (Bizagi) para optimización de flujos organizacionales.
+I transition Organizational Psychology from intuition-based HR into an exact, quantitative science. My architecture bridges advanced psychometrics (Bifactor Models, Causal Inference) with modern Data Engineering (ETL/ELT, dbt, Cloud) to automate strategic decision-making.
 
-🔭 **Proyectos de Investigación & Desarrollo:**
+### 🛠 Technical Arsenal
+* **Data Engineering & Cloud:** GCP (Cloud Run, Cloud SQL), Terraform (IaC), dbt (Data Build Tool), Docker, PostgreSQL.
+* **Analytics Core:** Python (Pandas, NumPy, Scikit-learn, FastAPI), Advanced SQL, Power BI (DAX, Star Schema), Power Query.
+* **High-Performance Logic:** Pure C++17 & pybind11 (Memory management, parallel execution, and Python integration).
+* **Statistics & Psychometrics:** Causal Inference, Structural Equation Modeling (SEM), Bayesian Analysis.
 
-* **Market Dynamics Simulator (Previamente "Project Alpha"):**
-  * Un motor de simulación en C++ para modelar **competencia económica** y asignación de recursos en entornos de alta incertidumbre. Uso de gestión de memoria dinámica para eficiencia.
+### 🔭 Production Infrastructure:
+* **[Bourbaki Engine Monorepo]:** My core ecosystem. A FAANG-standard architecture integrating a FastAPI Causal Engine, a dbt-powered HR Data Lake (handling PII Hashing & Data Governance), and a C++ Agent-Based Simulator for organizational dynamics.
 
-* **Organizational Network Analysis (ONA):**
-  * Modelado de jerarquías y **flujos de comunicación** empresarial mediante Teoría de Grafos y Matrices de Adyacencia. (Análisis de cuellos de botella y líderes ocultos).
-
-* **HR Data Lake Architecture (Concept):**
-  * Diseño de flujo ETL para la ingestión de nóminas y expedientes, aplicando principios de Gobierno de Datos.
--------------------------------------------------------------------------------------------------------------------------------------
-* | LinkedIn: [https://www.linkedin.com/in/james-l-48289224a/)] | Correo: [james.laloup@outlook.com] *
+| [LinkedIn](https://www.linkedin.com/in/james-l-48289224a/) | james.laloup@outlook.com |
